@@ -1,1 +1,1 @@
-﻿print('Ooops')
+﻿print('Ops')
